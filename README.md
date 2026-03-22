@@ -86,6 +86,16 @@
 
 ---
 
+## 🎯 Extracurricular Activities
+
+| Organization | Role | Description |
+|---|---|---|
+| **MJY** (미래제품연구회) | Member | Research club at Chung-Ang University |
+| **CECOM** | Member | Academic club at Chung-Ang University |
+| **[CIEN](https://cien.or.kr)** | Game Designer & Developer | Game development club at Chung-Ang University |
+
+---
+
 ## 🤝 Connect with Me
 
 <div align="center">
