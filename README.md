@@ -9,11 +9,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Student at **Chung-Ang University**
-- 🤖 Passionate about **AI, Machine Learning, and Physical AI**
-- 🌱 Currently exploring **Embodied AI & Robot Learning**
-- 💡 Interested in bridging the gap between **digital intelligence and the physical world**
-- 📬 Reach me at **meliday@cau.ac.kr**
+- Student at **Chung-Ang University**
+- Passionate about **AI, Machine Learning, and Physical AI**
+- Currently exploring **Embodied AI & Robot Learning**
+- Interested in bridging the gap between **digital intelligence and the physical world**
+- Reach me at **meliday@cau.ac.kr**
 
 ---
 
@@ -23,7 +23,7 @@
 |---|---|---|
 | [MIT 6.S191 — Intro to Deep Learning](http://introtodeeplearning.com/) | Neural networks, CNNs, RNNs, Transformers, Generative models | [📝 Study Notes](https://github.com/meliday/MIT-6.S191-Deep-Learning) |
 
-> 🗂️ I'm planning to share all my lecture notes and summaries as public repositories — stay tuned!
+> I'm planning to share all my lecture notes and summaries as public repositories — stay tuned!
 
 ---
 
@@ -78,10 +78,11 @@
 ## 🔭 Current Interests
 
 ```text
-🤖 Physical AI        ████████████░░░░░░░  Building AI that interacts with the real world
-🧠 LLM & Agents       ████████████░░░░░░░  Language model reasoning & automation
-📡 Robot Learning     █████████░░░░░░░░░░  Sim-to-Real transfer, RL for robotics
-🔬 ML Research        ████████░░░░░░░░░░░  Reading papers, reproducing results
+Physical AI        ████████████░░░░░░░  Building AI that interacts with the real world
+LLM & Agents       ████████████░░░░░░░  Language model reasoning & automation
+Robot Learning     █████████░░░░░░░░░░  Sim-to-Real transfer, RL for robotics
+ML Research        ████████░░░░░░░░░░░  Reading papers, reproducing results
+Game AI            ███████░░░░░░░░░░░░  Human-in-the-Loop& Ethical AI
 ```
 
 ---
@@ -91,7 +92,7 @@
 | Organization | Role | Description |
 |---|---|---|
 | **MJY** (미래제품연구회) | Member | Research club at Chung-Ang University |
-| **CECOM** | Member | Academic club at Chung-Ang University |
+| **[CECOM](https://cecom.dev)** | Member | Academic club at Chung-Ang University |
 | **[CIEN](https://cien.or.kr)** | Game Designer & Developer | Game development club at Chung-Ang University |
 
 ---
