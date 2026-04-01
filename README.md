@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Seonghun+Kim+%F0%9F%91%8B;AI+%7C+ML+%7C+Physical+AI+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Seonghun+Kim+%F0%9F%91%8B;Student+%40+Chung-Ang+University;Healthcare+AI+%7C+LLM+%7C+AI+for+Science)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,10 +10,9 @@
 ## 🙋‍♂️ About Me
 
 - Student at **Chung-Ang University**
-- Passionate about **AI, Machine Learning, and Physical AI**
-- Currently exploring **Embodied AI & Robot Learning**
-- Interested in bridging the gap between **digital intelligence and the physical world**
-- Reach me at **meliday@cau.ac.kr**
+- Lately drawn to **Healthcare AI** — curious about how ML can be applied to clinical and medical problems
+- Also into **LLMs & Agents** and **AI for Science** — drawn to the mathematical side of how these systems actually work
+- **meliday@cau.ac.kr**
 
 ---
 
@@ -40,6 +39,7 @@
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
@@ -50,40 +50,23 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=meliday&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meliday&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=meliday&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**ethics-qa-langchain**](https://github.com/meliday/ethics-qa-langchain) | A question classifier for an AI tutoring bot focused on ethics & philosophy education | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) `CEREBRAS API` |
-| [**ethics-qna-bot**](https://github.com/meliday/ethics-qna-bot) | An intelligent automation bot for ethics Q&A — monitors, classifies, and drafts answers using risk-based AI filtering | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) `OpenAI API` |
+| [**ethics-qa-langchain**](https://github.com/meliday/ethics-qa-langchain) | Classifies which questions are worth sending to the LLM — built for an ethics/philosophy tutoring context | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) `CEREBRAS API` |
+| [**ethics-qna-bot**](https://github.com/meliday/ethics-qna-bot) | Handles the full Q&A loop for an ethics course — watches for new questions, filters by risk, and drafts responses | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) `OpenAI API` |
 
 ---
 
 ## 🔭 Current Interests
 
 ```text
-Physical AI        ████████████░░░░░░░  Building AI that interacts with the real world
+Healthcare AI      ██████████████░░░░░  Clinical data, medical imaging, diagnostic AI
 LLM & Agents       ████████████░░░░░░░  Language model reasoning & automation
-Robot Learning     █████████░░░░░░░░░░  Sim-to-Real transfer, RL for robotics
+AI for Science     █████████░░░░░░░░░░  Applying ML to real scientific problems
 ML Research        ████████░░░░░░░░░░░  Reading papers, reproducing results
-Game AI            ███████░░░░░░░░░░░░  Human-in-the-Loop& Ethical AI
+Game AI            █████░░░░░░░░░░░░░░  Human-in-the-Loop & Ethical AI
 ```
 
 ---
@@ -92,7 +75,7 @@ Game AI            ███████░░░░░░░░░░░░  Hu
 
 | Organization | Role | Description |
 |---|---|---|
-| **MJY** (미래제품연구회) | Member | Research club at Chung-Ang University |
+| **[MJY](https://www.instagram.com/cau_mjy/)** (미래제품연구회) | Member | Research club at Chung-Ang University |
 | **[CECOM](https://cecom.dev)** | Member | Academic club at Chung-Ang University |
 | **[CIEN](https://cien.or.kr)** | Game Designer & Developer | Game development club at Chung-Ang University |
 
@@ -112,7 +95,8 @@ Game AI            ███████░░░░░░░░░░░░  Hu
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+*"Have a healthy disregard for the impossible."*
+— Larry Page
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=meliday.meliday)
 
