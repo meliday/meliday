@@ -22,6 +22,7 @@
 | Course | Topic | Notes |
 |---|---|---|
 | [MIT 6.S191 — Intro to Deep Learning](http://introtodeeplearning.com/) | Neural networks, CNNs, RNNs, Transformers, Generative models | [📝 Study Notes](https://github.com/meliday/MIT-6.S191-Deep-Learning) |
+| **Linear Algebra** | Foundations of AI: Matrices, Vector Spaces, and Linear Transformations | [📝 Study Notes](https://github.com/meliday/LinearAlgebrastudy) |
 
 > I'm planning to share all my lecture notes and summaries as public repositories — stay tuned!
 
