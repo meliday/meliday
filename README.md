@@ -1,40 +1,44 @@
-<div align="center">
+## About Me
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Seonghun+Kim+%F0%9F%91%8B;Student+%40+Chung-Ang+University;Healthcare+AI+%7C+LLM+%7C+AI+for+Science)](https://git.io/typing-svg)
+- Undergraduate student at **Chung-Ang University**
 
-</div>
+- Interested in **Scientific Machine Learning**, **AI4Science**, and **Computational Biology**
 
----
+- Currently building foundations in **linear algebra**, **numerical methods**, and **PyTorch-based modeling**
 
-## 🙋‍♂️ About Me
+- Exploring how physics-informed and data-driven methods can model **drug diffusion**, **biological transport**, and **PK/PD dynamics**
 
-- Student at **Chung-Ang University**
-- Lately drawn to **Healthcare AI** — curious about how ML can be applied to clinical and medical problems
-- Also into **LLMs & Agents** and **AI for Science** — drawn to the mathematical side of how these systems actually work
-- **meliday@cau.ac.kr**
+- Contact: **meliday@cau.ac.kr**
 
 ---
 
-## 📚 Currently Learning
+## Research Interests
 
-| Course | Topic | Notes |
-|---|---|---|
-| [MIT 6.S191 — Intro to Deep Learning](http://introtodeeplearning.com/) | Neural networks, CNNs, RNNs, Transformers, Generative models | [📝 Study Notes](https://github.com/meliday/MIT-6.S191-Deep-Learning) |
-| **Linear Algebra** | Foundations of AI: Matrices, Vector Spaces, and Linear Transformations | [📝 Study Notes](https://github.com/meliday/LinearAlgebrastudy) |
+- Scientific Machine Learning
+- Physics-Informed Neural Networks
+- Computational Biology
+- Drug diffusion and PK/PD modeling
+- Numerical methods for PDEs and ODEs
 
-> I'm planning to share all my lecture notes and summaries as public repositories — stay tuned!
 
 ---
 
-## 🛠️ Tech Stack
+## Currently Learning
+
+- Linear Algebra
+- Numerical Methods
+- Deep Learning
+- PyTorch
+
+---
+
+## Tech Stack
 
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Learning](https://img.shields.io/badge/C-Learning%20🌱-yellow?style=for-the-badge)
 
 **AI / ML**
 
@@ -42,6 +46,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Scientific ML / AI4Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 **Tools & Environments**
 
@@ -50,28 +62,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| [**DriverlessCar-CAU**](https://github.com/meliday/DriverlessCar-CAU) | ROS 2 packages for the Xycar / Xytron Unity self-driving simulator — lane perception, lane-control interface, sensor demos, and debug viewer | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) `Unity` `CMake` |
+| [**AlphaBot-V3**](https://github.com/meliday/AlphaBot-V3) | Semi-automated KR/US momentum trading bot combining CANSLIM, VCP pattern analysis, LLM news assessment, KIS API execution, dashboard, and backtesting | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) `KIS API` `yfinance` |
 | [**ethics-qa-langchain**](https://github.com/meliday/ethics-qa-langchain) | Classifies which questions are worth sending to the LLM — built for an ethics/philosophy tutoring context | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) `CEREBRAS API` |
 | [**ethics-qna-bot**](https://github.com/meliday/ethics-qna-bot) | Handles the full Q&A loop for an ethics course — watches for new questions, filters by risk, and drafts responses | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) `OpenAI API` |
 
----
-
-## 🔭 Current Interests
-
-```text
-Healthcare AI      ██████████████░░░░░  Clinical data, medical imaging, diagnostic AI
-LLM & Agents       ████████████░░░░░░░  Language model reasoning & automation
-AI for Science     █████████░░░░░░░░░░  Applying ML to real scientific problems
-ML Research        ████████░░░░░░░░░░░  Reading papers, reproducing results
-Game AI            █████░░░░░░░░░░░░░░  Human-in-the-Loop & Ethical AI
-```
+These projects reflect my current engineering practice while I build toward Scientific ML and AI4Science research.
 
 ---
 
-## 🎯 Extracurricular Activities
+## Extracurricular Activities
 
 | Organization | Role | Description |
 |---|---|---|
@@ -81,7 +85,7 @@ Game AI            █████░░░░░░░░░░░░░░  Hu
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
