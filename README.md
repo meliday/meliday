@@ -25,10 +25,11 @@
 
 ## Currently Learning
 
-- Linear Algebra
-- Numerical Methods
+- Calculus2
 - Deep Learning
-- PyTorch
+- Reinforcement Learning
+- Introduction to Machine Learning
+
 
 ---
 
