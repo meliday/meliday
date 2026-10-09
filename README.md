@@ -25,10 +25,10 @@
 
 ## Currently Learning
 
-- Calculus2
-- Deep Learning
-- Reinforcement Learning
-- Introduction to Machine Learning
+- Digital Logic Design
+- Discrete Mathematics
+- Introduction to Multimodal AI
+- CS231n: Deep Learning for Computer Vision
 
 
 ---
@@ -44,22 +44,8 @@
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Scientific ML / AI4Science**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-**Tools & Environments**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -78,11 +64,11 @@ These projects reflect my current engineering practice while I build toward Scie
 
 ## Extracurricular Activities
 
-| Organization | Role | Description |
-|---|---|---|
-| **[MJY](https://www.instagram.com/cau_mjy/)** (미래제품연구회) | Member | Research club at Chung-Ang University |
-| **[CECOM](https://cecom.dev)** | Member | Academic club at Chung-Ang University |
-| **[CIEN](https://cien.or.kr)** | Game Designer & Developer | Game development club at Chung-Ang University |
+| Organization | Role | Period | Description |
+|---|---|---|---|
+| **[ZeroPage](https://zeropage.org/)** | Member | 2026.03 – Present | Academic club at Chung-Ang University |
+| **[CECOM](https://cecom.dev)** | Member | 2026.03 – Present | Academic club at Chung-Ang University |
+| **[CIEN](https://cien.or.kr)** | Game Designer & Developer | 2026.03 – Present | Game development club at Chung-Ang University |
 
 ---
 
